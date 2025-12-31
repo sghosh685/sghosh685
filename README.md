@@ -28,9 +28,9 @@ Full-time roles where I can own features end-to-end in AI-driven products. Inter
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile) _(Update this!)_
-- 🌐 [Portfolio](https://your-portfolio.com) _(Update this!)_
-- 📧 [Email](mailto:your-email@example.com) _(Update this!)_
+- 💼 [LinkedIn]([https://linkedin.com/in/saikatsghosh00/]) 
+- 🌐 [Portfolio](https://your-portfolio.com) _(TBA this!)_
+- 📧 [Email](mailto:your-email@example.com) _(TBA this!)_
 
 ## 📊 Featured Projects
 
