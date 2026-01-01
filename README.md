@@ -10,7 +10,7 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React, Vite, Tailwind CSS, JavaScript  
+**Frontend:** React, Vite, Tailwind CSS, JavaScript, TypeScript  
 **Backend:** Python, FastAPI, SQLAlchemy  
 **AI/ML:** Groq API, Gemini AI, LangChain  
 **Cloud & DevOps:** Vercel, Render, Supabase, PostgreSQL  
