@@ -1,6 +1,6 @@
 # Hi, I'm Saikat Ghosh 👋
 
-**AI Product Engineer** building health and fintech tools with React, Python, and cloud platforms.
+**AI Product Engineer** building CleanTech, FinTech, InsureTech, HealthTech or Behavioral Science - Driven Productivity & Habit Management tools with React, Python, and cloud platforms.
 
 ## 🚀 Currently Working On
 
