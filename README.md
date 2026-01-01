@@ -6,7 +6,7 @@
 
 - **[SmartSip](https://github.com/sghosh685/SmartSip)** - AI-powered hydration coach with adaptive daily goals (React + Python + Groq AI)
 - **[PolicyMe Cortex](https://github.com/sghosh685/policyme-cortex)** - Multi-agent insurance fraud detection platform (React + FastAPI + Gemini AI)
-- - **[Nuclear Safety EDU](https://github.com/sghosh685/nuclear-safety-edu)** - Interactive nuclear education platform (React + TypeScript + Tailwind CSS)
+- **[Nuclear Safety EDU](https://github.com/sghosh685/nuclear-safety-edu)** - Interactive nuclear education platform (React + TypeScript + Tailwind CSS)
 
 ## 🛠️ Tech Stack
 
