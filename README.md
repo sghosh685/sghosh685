@@ -22,7 +22,7 @@ Full-time roles where I can own features end-to-end in AI-driven products. Inter
 - AI product engineering
 - Full-stack development with AI integration
 - Early-stage startups building with AI
-- HealthTech, FinTech, or InsurTech
+- CleanTech, FinTech, InsureTech, HealthTech or Behavioral Science - Driven Productivity & Habit Management
 
 **Location:** Toronto / Remote  
 **Education:** Computer Science, York University
@@ -49,4 +49,4 @@ Interactive educational platform providing plain-language nuclear education. Fea
 
 ---
 
-💡 **Open to collaboration** on AI-powered products, especially in health and finance.
+💡 **Open to collaboration** on AI-powered products, especially in CleanTech, FinTech, InsureTech, HealthTech or Behavioral Science - Driven Productivity & Habit Management
