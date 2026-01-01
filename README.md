@@ -6,6 +6,7 @@
 
 - **[SmartSip](https://github.com/sghosh685/SmartSip)** - AI-powered hydration coach with adaptive daily goals (React + Python + Groq AI)
 - **[PolicyMe Cortex](https://github.com/sghosh685/policyme-cortex)** - Multi-agent insurance fraud detection platform (React + FastAPI + Gemini AI)
+- - **[Nuclear Safety EDU](https://github.com/sghosh685/nuclear-safety-edu)** - Interactive nuclear education platform (React + TypeScript + Tailwind CSS)
 
 ## 🛠️ Tech Stack
 
@@ -39,7 +40,12 @@ AI-powered PWA that adapts daily water goals based on activity, weather, and hea
 
 ### [PolicyMe Cortex](https://github.com/sghosh685/policyme-cortex) - Insurance Claims Intelligence
 🔗 **Live:** [policyme-cortex.vercel.app](https://policyme-cortex.vercel.app/)  
-Multi-agent AI platform for automated fraud detection and risk scoring. Cuts claim review time by 80% through intelligent analysis.
+Multi-agent AI platform for automated fraud detection and risk scoring. Cuts claim review time by 80% 
+
+### [Nuclear Safety EDU](https://github.com/sghosh685/nuclear-safety-edu) - Nuclear Education Platform
+🔗 **Live:** [nuclear-safety-edu.vercel.app](https://nuclear-safety-edu.vercel.app/)
+
+Interactive educational platform providing plain-language nuclear education. Features comprehensive reactor explanations, accident analyses, interactive diagrams, quizzes, and a global nuclear map. Built with React, TypeScript, and Tailwind CSS.through intelligent analysis.
 
 ---
 
