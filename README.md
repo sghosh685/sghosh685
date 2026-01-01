@@ -44,8 +44,7 @@ Multi-agent AI platform for automated fraud detection and risk scoring. Cuts cla
 
 ### [Nuclear Safety EDU](https://github.com/sghosh685/nuclear-safety-edu) - Nuclear Education Platform
 🔗 **Live:** [nuclear-safety-edu.vercel.app](https://nuclear-safety-edu.vercel.app/)
-
-Interactive educational platform providing plain-language nuclear education. Features comprehensive reactor explanations, accident analyses, interactive diagrams, quizzes, and a global nuclear map. Built with React, TypeScript, and Tailwind CSS.through intelligent analysis.
+Interactive educational platform providing plain-language nuclear education. Features comprehensive reactor explanations, accident analyses, interactive diagrams, quizzes, and a global nuclear map through intelligent analysis.
 
 ---
 
